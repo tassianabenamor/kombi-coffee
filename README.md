@@ -16,4 +16,4 @@ O sistema operacional utilizado foi o Windows 10. A IDE de desenvolvimento utili
 As linguagens utulizadas foram:
 - HTML5
 
-Nenhum framework foi utilizado.
+*Nenhum framework foi utilizado.*
