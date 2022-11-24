@@ -14,5 +14,6 @@ Utlização de navegadores web para abrir o site.
 O sistema operacional utilizado foi o Windows 10. A IDE de desenvolvimento utilizada foi o Visual Studio Code.
 
 As linguagens utulizadas foram:
-HTML5
+- HTML5
+
 Nenhum framework foi utilizado.
