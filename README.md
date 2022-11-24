@@ -1,5 +1,5 @@
 # Kombi Coffee
-Projeto da disciplina Interfaces com HTML e CSS (Teste de Performance 2), Instituto Infnet. 
+Projeto da disciplina Interfaces com HTML e CSS (Teste de Performance 1), Instituto Infnet. 
 <br><br>
 ![image](https://user-images.githubusercontent.com/87051404/203862610-d720a8ad-9c05-4b47-9817-8fcf52b39c14.png)
 ## Sobre o projeto
