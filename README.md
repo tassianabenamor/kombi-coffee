@@ -4,6 +4,8 @@ Projeto da disciplina Interfaces com HTML e CSS (Teste de Performance 2), Instit
 ![image](https://user-images.githubusercontent.com/87051404/203862610-d720a8ad-9c05-4b47-9817-8fcf52b39c14.png)
 ## Sobre o projeto
 A ideia do projeto é criação de layout de uma loja fictícia chamada Kombi Coffee. Foi desenvolvido apenas a página inicial. 
+## Objetivo
+Estudar estrutura e estilo de páginas web utilizando apenas HTML5.
 ## Requisitos
 Utlização de navegadores web para abrir o site.
 ## Funcionalidades
